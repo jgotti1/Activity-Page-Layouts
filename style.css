@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+  }
+  
+  span {
+    display: inline-block;
+    padding: 7px;
+  }
+  
+  .pics {
+    width: 900px;
+    height: 500px;
+    left: 0px;
+    right: 0px;
+    
+  } 
